@@ -1,7 +1,7 @@
 {
   "name": "kindleSqliteExporter",
   "version": "1.0.0",
-  "description": "read SQLite db file and write it into an XML",
+  "description": "read SQLite db file and write it into an CSV",
   "main": "index.js",
   "scripts": {
     "test": "test"
